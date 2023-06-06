@@ -122,7 +122,9 @@ input[type='text'] {
 
 ### CALCULATION:
 
-![image](https://github.com/Aashima02/Simple-Calculator/assets/93427086/97bc25b0-1ce3-4fd1-a7b9-db598e3f7789) ![image](https://github.com/Aashima02/Simple-Calculator/assets/93427086/c6a6b215-9ab2-4eec-bfe3-3e8800a25377)
+![image](https://github.com/Aashima02/Simple-Calculator/assets/93427086/97bc25b0-1ce3-4fd1-a7b9-db598e3f7789) 
+
+![image](https://github.com/Aashima02/Simple-Calculator/assets/93427086/c6a6b215-9ab2-4eec-bfe3-3e8800a25377)
 
 ## RESULT:
 
